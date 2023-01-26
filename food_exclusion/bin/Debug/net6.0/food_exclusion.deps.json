@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "food_exclusion/1.0.0": {
+        "runtime": {
+          "food_exclusion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "food_exclusion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

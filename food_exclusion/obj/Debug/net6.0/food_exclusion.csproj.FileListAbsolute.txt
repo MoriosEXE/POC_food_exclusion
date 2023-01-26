@@ -1,0 +1,15 @@
+E:\projet perso\POC_food_exclusion\food_exclusion\bin\Debug\net6.0\food_exclusion.exe
+E:\projet perso\POC_food_exclusion\food_exclusion\bin\Debug\net6.0\food_exclusion.deps.json
+E:\projet perso\POC_food_exclusion\food_exclusion\bin\Debug\net6.0\food_exclusion.runtimeconfig.json
+E:\projet perso\POC_food_exclusion\food_exclusion\bin\Debug\net6.0\food_exclusion.dll
+E:\projet perso\POC_food_exclusion\food_exclusion\bin\Debug\net6.0\food_exclusion.pdb
+E:\projet perso\POC_food_exclusion\food_exclusion\obj\Debug\net6.0\food_exclusion.csproj.AssemblyReference.cache
+E:\projet perso\POC_food_exclusion\food_exclusion\obj\Debug\net6.0\food_exclusion.GeneratedMSBuildEditorConfig.editorconfig
+E:\projet perso\POC_food_exclusion\food_exclusion\obj\Debug\net6.0\food_exclusion.AssemblyInfoInputs.cache
+E:\projet perso\POC_food_exclusion\food_exclusion\obj\Debug\net6.0\food_exclusion.AssemblyInfo.cs
+E:\projet perso\POC_food_exclusion\food_exclusion\obj\Debug\net6.0\food_exclusion.csproj.CoreCompileInputs.cache
+E:\projet perso\POC_food_exclusion\food_exclusion\obj\Debug\net6.0\food_exclusion.dll
+E:\projet perso\POC_food_exclusion\food_exclusion\obj\Debug\net6.0\refint\food_exclusion.dll
+E:\projet perso\POC_food_exclusion\food_exclusion\obj\Debug\net6.0\food_exclusion.pdb
+E:\projet perso\POC_food_exclusion\food_exclusion\obj\Debug\net6.0\food_exclusion.genruntimeconfig.cache
+E:\projet perso\POC_food_exclusion\food_exclusion\obj\Debug\net6.0\ref\food_exclusion.dll
